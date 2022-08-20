@@ -1,7 +1,7 @@
 # APLICAŢIE INFORMATICĂ DE MOBILE BANKING - PROIECTAREA SISTEMELOR INFORMATICE
 
 *TEHNOLOGIILE UTILIZATE:*  <br />
-֍ Limbajele vizuale de modelare: **UML, BPMN** <br />
+֍ Limbajele vizuale de modelare - **UML, BPMN** <br />
 ֍ Instrumentul software – **Visual Paradigm** <br />
 
 *CERINȚELE PROIECTULUI:* <br />
