@@ -27,4 +27,4 @@ III. Proiectarea sistemului informatic <br />
 + diagrama de desfăşurare <br />
 
 *NOTĂ:* <br />
-Versiunea îmbunătățită se regăsește în cadrul capitolului III (ANALIZA ȘI PROIECTAREA SISTEMULUI INFORMATIC) din documentația lucrării de licență.<br />
+Versiunea îmbunătățită se regăsește în cadrul capitolului III (**ANALIZA ȘI PROIECTAREA SISTEMULUI INFORMATIC**) din documentația lucrării de licență.<br />
